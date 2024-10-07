@@ -33,8 +33,10 @@ Blender > Edit > Preferences > Resolution Scale
 |`9`| flip around view |
 |`/`| zoom on selected / visible toggle |
 | `shift + a` | add menu |
-| `g` | quick move |
-| `g` followed by `x` `y` `z` | move on x, y or z axis |
+| `g` | move tool |
+| `r` | rotate tool |
+| `s` | scale tool |
+| `g` `r` `s` followed by `x` `y` `z` | move, rotate or scale on x, y or z axis |
 | `tab` | object / edit mode toggle |
 | `ctrl + tab` | more edit options |
 | `n` | numbers box |
