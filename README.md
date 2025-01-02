@@ -1,4 +1,4 @@
-# blender
+# Blender
 
 This repository is for Blender resources for the emerging tech courses.
 
