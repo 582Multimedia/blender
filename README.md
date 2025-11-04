@@ -4,6 +4,8 @@ This repository is for Blender resources for the emerging tech courses.
 
 To download Blender, visit [https://www.blender.org/](https://www.blender.org/).
 
+Download [blender-infographic-A1-841x594.pdf](blender cheat sheet)
+
 ## Preferences and settings
 
 Blender > Edit > Preferences > Resolution Scale
